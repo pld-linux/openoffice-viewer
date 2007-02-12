@@ -1,5 +1,5 @@
 Summary:	OOoView - OpenOffice.org file viewer
-Summary(pl):	OOoView - przegl±darka plików OpenOffice.org
+Summary(pl.UTF-8):   OOoView - przeglÄ…darka plikÃ³w OpenOffice.org
 Name:		openoffice-viewer
 Version:	0
 Release:	0.1
@@ -26,18 +26,18 @@ The University of the Philippines is releasing the limited version
 here. It is limited because the source is not yet made available.
 However, it will be made available soon under GPL.
 
-%description -l pl
-W 2003 roku grupa sk³adaj±ca siê z Christine Bejerasco, Cipriano
+%description -l pl.UTF-8
+W 2003 roku grupa skÅ‚adajÄ…ca siÄ™ z Christine Bejerasco, Cipriano
 Consolacion Jr. i Raquela Terrozy pod kierunkiem prof. R. Ferii
-stworzy³a prototyp przegl±darki plików OpenOffice.org. Przegl±darka o
-nazwie OOoView zosta³a napisana w Javie, aby zapewniæ dzia³anie na
-ka¿dej platformie z w³a¶ciw± maszyn± wirtualn± Javy. Ta aplikacja
-pozwala u¿ytkownikom ogl±daæ pliki OpenOffice.org bez instalowania
+stworzyÅ‚a prototyp przeglÄ…darki plikÃ³w OpenOffice.org. PrzeglÄ…darka o
+nazwie OOoView zostaÅ‚a napisana w Javie, aby zapewniÄ‡ dziaÅ‚anie na
+kaÅ¼dej platformie z wÅ‚aÅ›ciwÄ… maszynÄ… wirtualnÄ… Javy. Ta aplikacja
+pozwala uÅ¼ytkownikom oglÄ…daÄ‡ pliki OpenOffice.org bez instalowania
 OpenOffice.org ani StarOffice'a.
 
-Ten pakiet zawiera wersjê ograniczon± wydan± przez Uniwersytet
-Filipiñski. Jest ograniczona, poniewa¿ ¼ród³a jeszcze nie zosta³y
-udostêpnione; jednak ma byæ wkrótce udostêpniona na licencji GPL.
+Ten pakiet zawiera wersjÄ™ ograniczonÄ… wydanÄ… przez Uniwersytet
+FilipiÅ„ski. Jest ograniczona, poniewaÅ¼ ÅºrÃ³dÅ‚a jeszcze nie zostaÅ‚y
+udostÄ™pnione; jednak ma byÄ‡ wkrÃ³tce udostÄ™pniona na licencji GPL.
 
 %prep
 %setup -q -c
