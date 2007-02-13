@@ -1,5 +1,5 @@
 Summary:	OOoView - OpenOffice.org file viewer
-Summary(pl.UTF-8):   OOoView - przeglądarka plików OpenOffice.org
+Summary(pl.UTF-8):	OOoView - przeglądarka plików OpenOffice.org
 Name:		openoffice-viewer
 Version:	0
 Release:	0.1
